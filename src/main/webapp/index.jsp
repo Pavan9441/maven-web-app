@@ -6,9 +6,9 @@
   
   <h2> Call Us : + 91 - 99 85 39 77 88 / 123456789 </h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Ofc Location : Adamstwon,Dublin </h3>
   
-  <h1> Learn Here.. Lead Anywhere..!! </h1>
+  <h1> come as a student .. Lgo as a leader..!! </h1>
 
 </body>
 </html>
